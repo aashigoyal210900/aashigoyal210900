@@ -2,15 +2,15 @@
 <h3 align="center">MSCS (Artificial Intelligence) @ University of Southern California</h3>
 <img align = "right" alt = 'Coding' width = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🔭 I’m currently working on ** Multimodal LLM System to detect human voices in a group setting **
+- 🔭 I’m currently working on **Multimodal LLM System to detect human voices in a group setting**
 
-- 🌱 I’m currently learning ** Voice Active Detection (VAD) with help of GPT models**
+- 🌱 I’m currently learning **Voice Active Detection (VAD) with help of GPT models**
 
 - 💬 Ask me about **All Things Predictive Analytics and Data!**
 
 - 📫 Reach me at: **aashi.2109@outlook.com**
 
-- ⚡ Fun fact **I paint and play Badminton! 👩‍🎨**
+- ⚡ Fun fact **I paint and play Badminton!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
