@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aashi Goyal </h1>
 <h3 align="center">MSCS (Artificial Intelligence) @ University of Southern California</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<br>
+
 <h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working on **Multimodal LLM System to detect human voices in a group setting**
 
 - 🌱 I’m currently learning **Voice Active Detection (VAD) with the help of GPT models**
